@@ -1,16 +1,18 @@
-# jobsheet_fluter_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# praktikum 1
+1. membuat app flutter baru
+# praktikum 2 
+menghubungakna flutter dengan android studio untuk mengakses hp fisik
+1. menggunakan flutter sebelumnya 
+2. membuka android studio 
+3. mengatur hp agar menghubungkan dengan qr code 
+4. menampilkan qr code yang ada di android studio 
+5. scan  pakai hp dengan syarat di bawah wifi yang sama
+6. menghubungkan hp dengan android studio
+7. menjalankan aplikasi dari vscode dan menginstall aplikasi ke hp
+8. tunggu beberapa menti lalu mengakses aplikasi dari hp
+# praktikum 3 
+1. menggunakan flutter sebelumnya 
+2. membuat repo baru 
+3. membuat git ignore lalu push ke repo 
+4. membuat  readme.md lalu push ke repo
+5. karena dari awal menggunakan folder hello world praktikum 1 jadi  file langsung ada di repo semua 
