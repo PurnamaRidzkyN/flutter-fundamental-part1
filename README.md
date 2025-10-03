@@ -16,3 +16,7 @@ menghubungakna flutter dengan android studio untuk mengakses hp fisik
 3. membuat git ignore lalu push ke repo 
 4. membuat  readme.md lalu push ke repo
 5. karena dari awal menggunakan folder hello world praktikum 1 jadi  file langsung ada di repo semua 
+6. dalam praktikum ini saya menggunakan hp fisik untuk mengakses aplikasi yang dibuat di flutter
+7. hasil ss 
+(images/01.png)
+(images/011.png)
