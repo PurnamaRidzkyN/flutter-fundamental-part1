@@ -19,4 +19,4 @@ menghubungakna flutter dengan android studio untuk mengakses hp fisik
 6. dalam praktikum ini saya menggunakan hp fisik untuk mengakses aplikasi yang dibuat di flutter
 7. hasil ss 
 ![ss laptop](images/01.png)
-![ss hp](images/011.png)
+![ss hp](images/011.jpg)
