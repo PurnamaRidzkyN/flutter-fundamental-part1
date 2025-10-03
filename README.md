@@ -18,5 +18,5 @@ menghubungakna flutter dengan android studio untuk mengakses hp fisik
 5. karena dari awal menggunakan folder hello world praktikum 1 jadi  file langsung ada di repo semua 
 6. dalam praktikum ini saya menggunakan hp fisik untuk mengakses aplikasi yang dibuat di flutter
 7. hasil ss 
-![alt](images/01.png)
-![alt](images/011.png)
+![ss laptop](images/01.png)
+![ss hp](images/011.png)
