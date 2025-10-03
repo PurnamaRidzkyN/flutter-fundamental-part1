@@ -1,5 +1,6 @@
 # praktikum 1
 1. membuat app flutter baru
+
 # praktikum 2 
 menghubungakna flutter dengan android studio untuk mengakses hp fisik
 1. menggunakan flutter sebelumnya 
@@ -10,6 +11,7 @@ menghubungakna flutter dengan android studio untuk mengakses hp fisik
 6. menghubungkan hp dengan android studio
 7. menjalankan aplikasi dari vscode dan menginstall aplikasi ke hp
 8. tunggu beberapa menti lalu mengakses aplikasi dari hp
+
 # praktikum 3 
 1. menggunakan flutter sebelumnya 
 2. membuat repo baru 
@@ -22,3 +24,18 @@ menghubungakna flutter dengan android studio untuk mengakses hp fisik
   <img src="images/01.png" alt="ss laptop" width="600"/>
   <img src="images/011.jpg" alt="ss hp" width="150"/>
 </p>
+
+# praktikum 4
+1. membuat folder baru di lib lalu membuat kode text widget
+2. memanggil di main 
+3. Hasil ss 
+<p>
+ <img src="images/02.jpg" alt="ss hp" width="150"/>
+</p>
+4. membuat folder baru di lib lalu membuat kode text widget
+5. memanggil di main 
+6. Hasil ss 
+<p>
+ <img src="images/03.png" alt="ss hp" width="600"/>
+</p>
+

@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:jobsheet_fluter_1/basic_widgets/text_widget.dart';
+import 'package:jobsheet_fluter_1/basic_widgets/image_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -104,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text('awal projek flutter saya'),
+            const MyImageWidget(),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
