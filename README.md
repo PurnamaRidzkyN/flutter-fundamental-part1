@@ -1,7 +1,7 @@
 # Jobsheet Flutter 1
 
 - **Nama**: Purnama Ridzky Nugraha  
-- **Kelas/Absen**: SIB 3F  
+- **Kelas/Absen**: SIB 3F / 23
 - **NIM**: 2341760037  
 - **Mata Kuliah**: Pemrograman Mobile  
 - **Tugas**: Jobsheet Flutter 1  
