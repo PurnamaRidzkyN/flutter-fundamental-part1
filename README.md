@@ -39,3 +39,23 @@ menghubungakna flutter dengan android studio untuk mengakses hp fisik
  <img src="images/03.png" alt="ss hp" width="600"/>
 </p>
 
+# Praktikum 5
+1. Menambahkan widget **Cupertino (Loading)**
+2. Menambahkan widget **DatePicker**
+3. Menambahkan widget **Dialog**
+4. Menambahkan widget **TextField**
+5. Menambahkan widget **Floating Action Button**
+6. Menambahkan widget **Scaffold**
+7. Menambahkan widget **Loading (Material)**
+8. Membuat **Menu** untuk navigasi ke semua widget
+9. hasil pekerjaan 
+
+<p align="center">
+  <img src="images/04.jpg" alt="ss hp 04" width="150"/>
+  <img src="images/041.jpg" alt="ss hp 041" width="150"/>
+  <img src="images/042.jpg" alt="ss hp 042" width="150"/>
+  <img src="images/043.jpg" alt="ss hp 043" width="150"/>
+  <img src="images/044.jpg" alt="ss hp 044" width="150"/>
+  <img src="images/045.jpg" alt="ss hp 045" width="150"/>
+  <img src="images/046.jpg" alt="ss hp 046" width="150"/>
+</p>
