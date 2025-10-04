@@ -1,3 +1,11 @@
+# Jobsheet Flutter 1
+
+- **Nama**: Purnama Ridzky Nugraha  
+- **Kelas/Absen**: SIB 3F  
+- **NIM**: 2341760037  
+- **Mata Kuliah**: Pemrograman Mobile  
+- **Tugas**: Jobsheet Flutter 1  
+
 # praktikum 1
 1. membuat app flutter baru
 
